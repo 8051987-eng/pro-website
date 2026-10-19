@@ -1,0 +1,22 @@
+header{
+    font-size: 100px;
+    background-color: lightcoral;
+}
+
+body{
+    background-color: lightsalmon;
+}
+
+p{
+    border: 2px dotted #000000; 
+  padding: 15px;            
+  display: inline-block;    
+  border-radius: 5px;   
+}
+
+.a{
+    background-color: lightpink;
+    width: 50px;
+    height: 70px;
+}
+  
